@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 class Player
   @@alphabet = ('A'..'Z').to_a
   attr_accessor :word, :name
